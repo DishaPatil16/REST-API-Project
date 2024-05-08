@@ -1,0 +1,22 @@
+npm init
+npm i -D typescript nodemon ts-node @types/node -> typescript
+npx  tsc --init
+git init
+npm run dev
+npm init @eslint/config -> ESLint to avoid bad practices
+npm i express -> server to run everytime , to answer api
+npm i -D @types/express
+
+npm i dotenv
+npm install mongoose
+
+npm i http-errors
+npm install bcrypt
+npm i -D @types/bcrypt
+
+$ npm install --save multer // multipart form data
+npm i -D @types/multer
+
+
+
+
